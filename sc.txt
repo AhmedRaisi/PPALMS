@@ -1,0 +1,11 @@
+# simple python program
+x = 10
+y = 5
+sum = 0
+
+# this is a for loop
+for i in range(10):
+    sum += sum + x*y
+
+print(sum)
+# end of program
